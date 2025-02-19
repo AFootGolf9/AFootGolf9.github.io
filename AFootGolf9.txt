@@ -2,7 +2,7 @@
 <span id="a">AFoot@Golf9</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->AdrianDosAnjos.txt<br/><br/>
 My favorite code quote, "<span id="k">Nothing is perfect</span>". <!-- sjkfhskjf -->
 
-My name is Adrian Azeredo dos Anjos, 18 years old, I’m a programing enthusiast.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>The languages I know are English(B2) and Portuguese(Native).</p>
+My name is Adrian Azeredo dos Anjos, 19 years old, I’m a programing enthusiast.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>The languages I know are English(B2) and Portuguese(Native).</p>
 <p>When young I enjoyed math and logic (Even got two Bronze medals in a national Olympic) . I started programming 2 years ago and fell in love with it.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p> The programming languages that I have experience with are Java and Python. Used the frameworks Spring Boot for java and Django for Python. Started a local database with docker. Now I using Archlinux to better my understanding of how computers work.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 <p><br> Some progects<a href="https://github.com/AFootGolf9/consoleLogin"> conseleLogin</a>, <a href="https://github.com/AFootGolf9/Algorithms"> Algorithms</a>.<!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
